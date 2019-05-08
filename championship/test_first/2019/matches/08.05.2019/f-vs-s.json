@@ -1,0 +1,38 @@
+{
+	"home":"first team",
+	"guest": "second team",
+	"place": "Место проведения - Стадион",	
+	"events": [
+		{
+			"time": "10",
+			"type": "yellow-card",
+			"team": "home",
+			"player": "defender"
+		},
+		{
+			"time": "12",
+			"type": "red-card",
+			"team": "home",
+			"player": "defender"
+		},
+		{
+			"time": "15",
+			"type": "goal",
+			"team": "home",
+			"player": "defender"
+		},
+		{
+			"time": "25",
+			"type": "goal",
+			"team": "home",
+			"player": "attack"
+		},
+		{
+			"time": "45",
+			"type": "goal",
+			"team": "guest",
+			"player": "attack"
+		}
+
+	]
+}

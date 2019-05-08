@@ -1,0 +1,20 @@
+{
+	"id": "second team",
+	"name": "Вторая команда",
+	"logo": "https://upload.wikimedia.org/wikipedia/ru/archive/8/83/20150621045728%21Spartak_logo_2013.png",
+	"description" : "Простое описание команды",
+	"members": [
+		{
+			"name" : "Вратарь",
+			"id": "goalkeeper"
+		},
+		{
+			"name" : "Защитник",
+			"id": "defender"
+		},
+		{
+			"name" : "Нападающий",
+			"id": "attack"
+		}
+	]
+}

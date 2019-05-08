@@ -1,0 +1,20 @@
+{
+	"id": "first team",
+	"name": "Первая команда",
+	"logo": "https://progorod76.ru/userfiles/afisha/events/613/img15243318189506.jpg",
+	"description" : "Простое описание команды",
+	"members": [
+		{
+			"name" : "Вратарь",
+			"id": "goalkeeper"
+		},
+		{
+			"name" : "Защитник",
+			"id": "defender"
+		},
+		{
+			"name" : "Нападающий",
+			"id": "attack"
+		}
+	]
+}
