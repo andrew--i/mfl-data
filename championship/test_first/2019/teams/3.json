@@ -1,0 +1,20 @@
+{
+	"id": "3 team",
+	"name": "Третья команда",
+	"logo": "https://sport2you.net/media/team/th_200px-Liverpool_FC.png",
+	"description" : "Простое описание команды 3",
+	"members": [
+		{
+			"name" : "Вратарь",
+			"id": "goalkeeper"
+		},
+		{
+			"name" : "Защитник",
+			"id": "defender"
+		},
+		{
+			"name" : "Нападающий",
+			"id": "attack"
+		}
+	]
+}

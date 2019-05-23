@@ -3,7 +3,7 @@
 	"guest": "second team",
 	"place": "Место проведения - Стадион",
 	"time": "Время проведения",
-	"status": "Статус матча",
+	"status": "finish",
 	"events": [
 		{
 			"time": "10",
